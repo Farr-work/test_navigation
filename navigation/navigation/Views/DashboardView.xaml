@@ -6,10 +6,16 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid Background="#FFF0F0F0">
-        <TextBlock Text="Trang Dashboard" 
+        <TextBlock Text="Trang Dashboard em Dương đã làm đẹp keng" 
                    FontSize="32" 
                    FontWeight="Bold"
                    HorizontalAlignment="Center" 
                    VerticalAlignment="Center"/>
+        <Button Content="Nút bấm gì đó" 
+        Width="50" 
+        Height="24" 
+        FontSize="12" 
+        Padding="0"
+        Margin="375,279,375,147"/>
     </Grid>
 </UserControl>

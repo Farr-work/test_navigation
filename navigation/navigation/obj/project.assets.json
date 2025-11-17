@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Workspace\\EPU\\LT_NET\\Project\\navigation\\navigation\\navigation.csproj",
+      "projectUniqueName": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\navigation.csproj",
       "projectName": "navigation",
-      "projectPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\navigation\\navigation\\navigation.csproj",
+      "projectPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\navigation.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\navigation\\navigation\\obj\\",
+      "outputPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
