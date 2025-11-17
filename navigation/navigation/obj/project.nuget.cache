@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "sLNnJDxz5ns=",
   "success": true,
   "projectFilePath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\navigation.csproj",
+=======
+  "dgSpecHash": "mQKzFvBuPis=",
+  "success": true,
+  "projectFilePath": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\navigation.csproj",
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf
   "expectedPackageFiles": [],
   "logs": []
 }

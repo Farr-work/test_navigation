@@ -14,7 +14,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("navigation")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< HEAD
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c4e60fedad4e53631d5ee12821a8cbe9a1facd51")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69e62b2260ec3052461b8705b2eb7b9418d9bb85")]
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf
 [assembly: System.Reflection.AssemblyProductAttribute("navigation")]
 [assembly: System.Reflection.AssemblyTitleAttribute("navigation")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

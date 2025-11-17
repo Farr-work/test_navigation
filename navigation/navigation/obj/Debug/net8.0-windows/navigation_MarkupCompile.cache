@@ -4,16 +4,28 @@
 winexe
 C#
 .cs
+<<<<<<< HEAD
 C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\
+=======
+D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf
 navigation
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP;WINDOWS;WINDOWS7_0;NET5_0_OR_GREATER;NET6_0_OR_GREATER;NET7_0_OR_GREATER;NET8_0_OR_GREATER;NETCOREAPP3_0_OR_GREATER;NETCOREAPP3_1_OR_GREATER;WINDOWS7_0_OR_GREATER
+<<<<<<< HEAD
 C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\App.xaml
 4450576848
 
 7-1742645561
 198-192518753
+=======
+D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\App.xaml
+4450576848
+
+7-1742645561
+198338916705
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf
 MainWindow.xaml;Views\CoursesView.xaml;Views\DashboardView.xaml;Views\StudentsView.xaml;
 
 False
