@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\navigation.csproj": {}
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\navigation.csproj": {}
   },
   "projects": {
-    "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\navigation.csproj": {
+    "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\navigation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\navigation.csproj",
+        "projectUniqueName": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\navigation.csproj",
         "projectName": "navigation",
-        "projectPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\navigation.csproj",
-        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\obj\\",
+        "projectPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\navigation.csproj",
+        "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -68,7 +68,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
