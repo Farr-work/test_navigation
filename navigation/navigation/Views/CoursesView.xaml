@@ -26,5 +26,13 @@
                  FontSize="12" 
                  HorizontalAlignment="Left" 
                  VerticalAlignment="Top" Margin="345,138,0,0" Text="Nhập khóa mày muốn học vào đây"/>
+        <ComboBox Width="215" 
+                  Height="24" 
+                  FontSize="12" 
+                  HorizontalAlignment="Left" 
+                  VerticalAlignment="Top" Margin="345,172,0,0"/>
+        <ComboBoxItem Content="Khóa học 1"/>
+            <ComboBoxItem Content="Khóa học 2"/>
+            <ComboBoxItem Content="Khóa học 3" Selected="ComboBoxItem_Selected"/>
     </Grid>
 </UserControl>
