@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\",
+  "WorkspaceRootPath": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|d:\\workspace\\epu\\lt_net\\project\\dev_duong\\test_navigation\\navigation\\navigation\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|d:\\epu\\.net\\dev_tiep\\test_navigation\\navigation\\navigation\\views\\coursesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\views\\coursesview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|d:\\epu\\.net\\dev_tiep\\test_navigation\\navigation\\navigation\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
@@ -19,10 +23,22 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "CoursesView.xaml",
+              "DocumentMoniker": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\Views\\CoursesView.xaml",
+              "RelativeDocumentMoniker": "navigation\\Views\\CoursesView.xaml",
+              "ToolTip": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\Views\\CoursesView.xaml",
+              "RelativeToolTip": "navigation\\Views\\CoursesView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T15:31:06.082Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "DashboardView.xaml",
-              "DocumentMoniker": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\Views\\DashboardView.xaml",
+              "DocumentMoniker": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\Views\\DashboardView.xaml",
               "RelativeDocumentMoniker": "navigation\\Views\\DashboardView.xaml",
-              "ToolTip": "D:\\Workspace\\EPU\\LT_NET\\Project\\dev_Duong\\test_navigation\\navigation\\navigation\\Views\\DashboardView.xaml",
+              "ToolTip": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\Views\\DashboardView.xaml",
               "RelativeToolTip": "navigation\\Views\\DashboardView.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2025-11-17T14:52:11.521Z",
