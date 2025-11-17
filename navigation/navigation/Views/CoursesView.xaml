@@ -6,10 +6,16 @@
              mc:Ignorable="d" 
              d:DesignHeight="450" d:DesignWidth="800">
     <Grid Background="#FFF9E6">
-        <TextBlock Text="Trang Quản Lý Khóa Học" 
+        <TextBlock Text="Tiệp đã ỉa ở đây" 
                    FontSize="32" 
                    FontWeight="Bold"
                    HorizontalAlignment="Center" 
                    VerticalAlignment="Center"/>
+        <Button Content="Nút gì đó" 
+                 Width="50" 
+                 Height="24" 
+                 FontSize="12" 
+                 Padding="0"
+                 Margin="375,284,375,142"/>   
     </Grid>
 </UserControl>
