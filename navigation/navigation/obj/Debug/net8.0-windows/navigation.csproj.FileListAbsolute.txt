@@ -49,6 +49,34 @@ D:\Workspace\EPU\LT_NET\Project\dev_Duong\test_navigation\navigation\navigation\
 D:\Workspace\EPU\LT_NET\Project\dev_Duong\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.pdb
 D:\Workspace\EPU\LT_NET\Project\dev_Duong\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.genruntimeconfig.cache
 D:\Workspace\EPU\LT_NET\Project\dev_Duong\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\ref\navigation.dll
+<<<<<<< HEAD
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.exe
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.deps.json
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.runtimeconfig.json
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.dll
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.pdb
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\Views\CoursesView.baml
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\Views\DashboardView.baml
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\Views\StudentsView.baml
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\Views\CoursesView.g.cs
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\Views\DashboardView.g.cs
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\Views\StudentsView.g.cs
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation_MarkupCompile.cache
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.g.resources
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.AssemblyInfoInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.AssemblyInfo.cs
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.sourcelink.json
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.dll
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\refint\navigation.dll
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.pdb
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.genruntimeconfig.cache
+C:\Users\ADMIN\OneDrive\Desktop\gitt\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\ref\navigation.dll
+=======
 D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.exe
 D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.deps.json
 D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\bin\Debug\net8.0-windows\navigation.runtimeconfig.json
@@ -75,3 +103,4 @@ D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\obj\Debug\net8.0-wind
 D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.pdb
 D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\navigation.genruntimeconfig.cache
 D:\EPU\.NET\dev_Tiep\test_navigation\navigation\navigation\obj\Debug\net8.0-windows\ref\navigation.dll
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf

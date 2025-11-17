@@ -1,5 +1,16 @@
 {
   "Version": 1,
+<<<<<<< HEAD
+  "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|c:\\users\\admin\\onedrive\\desktop\\gitt\\test_navigation\\navigation\\navigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|c:\\users\\admin\\onedrive\\desktop\\gitt\\test_navigation\\navigation\\navigation\\views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+=======
   "WorkspaceRootPath": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\",
   "Documents": [
     {
@@ -9,6 +20,7 @@
     {
       "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|d:\\epu\\.net\\dev_tiep\\test_navigation\\navigation\\navigation\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\views\\dashboardview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +35,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+<<<<<<< HEAD
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "navigation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\MainWindow.xaml",
+              "RelativeToolTip": "navigation\\MainWindow.xaml",
+=======
               "Title": "CoursesView.xaml",
               "DocumentMoniker": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\Views\\CoursesView.xaml",
               "RelativeDocumentMoniker": "navigation\\Views\\CoursesView.xaml",
@@ -40,8 +59,21 @@
               "RelativeDocumentMoniker": "navigation\\Views\\DashboardView.xaml",
               "ToolTip": "D:\\EPU\\.NET\\dev_Tiep\\test_navigation\\navigation\\navigation\\Views\\DashboardView.xaml",
               "RelativeToolTip": "navigation\\Views\\DashboardView.xaml",
+>>>>>>> b56957f0f234bb347686fdf1c3c9983a401d77cf
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-11-17T14:52:11.521Z",
+              "WhenOpened": "2025-11-17T15:36:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentsView.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\Views\\StudentsView.xaml",
+              "RelativeDocumentMoniker": "navigation\\Views\\StudentsView.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\Views\\StudentsView.xaml",
+              "RelativeToolTip": "navigation\\Views\\StudentsView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T15:32:47.807Z",
               "EditorCaption": ""
             }
           ]
