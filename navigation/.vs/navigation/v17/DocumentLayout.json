@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|c:\\users\\admin\\onedrive\\desktop\\gitt\\test_navigation\\navigation\\navigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|c:\\users\\admin\\onedrive\\desktop\\gitt\\test_navigation\\navigation\\navigation\\views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{37DDDB57-6315-4E49-833D-A344A795554A}|navigation\\navigation.csproj|solutionrelative:navigation\\views\\studentsview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
@@ -19,6 +23,18 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "navigation\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\MainWindow.xaml",
+              "RelativeToolTip": "navigation\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-11-17T15:36:19.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "StudentsView.xaml",
               "DocumentMoniker": "C:\\Users\\ADMIN\\OneDrive\\Desktop\\gitt\\test_navigation\\navigation\\navigation\\Views\\StudentsView.xaml",
               "RelativeDocumentMoniker": "navigation\\Views\\StudentsView.xaml",
